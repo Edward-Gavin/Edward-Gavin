@@ -5,13 +5,11 @@
 
 ### Hi there 👋,I'm Jarrod.
 
-- 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m currently working big data project.
+- 🌱 I’m currently learning Flink source code.
+- 📖 I'm currently reading 《Hello, Startup》
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: wswit3136@gamil.com
-
-
-
 
 <!--![Visitor Count](https://profile-counter.glitch.me/Edward-Gavin/count.svg)-->
 
