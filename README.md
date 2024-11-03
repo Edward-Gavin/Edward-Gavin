@@ -1,19 +1,25 @@
-## Hi there 👋,I'm Jarrod.
+
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edward-Gavin&show_icons=true&theme=transparent" />-->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edward-Gavin&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
+
+### Hi there 👋,I'm Jarrod.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: wswit3136@gamil.com
 
-![](https://github-readme-stats.vercel.app/api?username=Edward-Gavin&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-Gavin&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Edward-Gavin/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
-## My Skill Set
+<!--![Visitor Count](https://profile-counter.glitch.me/Edward-Gavin/count.svg)-->
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=Edward-Gavin&show_icons=true&theme=transparent" />-->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward-Gavin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
+
+
 
 
 
